@@ -1,1 +1,5 @@
-/*  your css code here. If applicable */
+/* Optional styling */
+body {
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+}
